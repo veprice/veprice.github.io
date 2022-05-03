@@ -14,10 +14,10 @@ I'm currently seeking employment as a data analyst or python developer! Feel fre
 
 Programs I completed and expanded upon as a teaching assistant for an introductory physics course that incorporated Python programming into its curriculum.
 
-[Go to Physics Simulations Homepage](contemp_phys) »
+[Go to Physics Simulations Homepage](http://veprice.github.io/contemp_phys) »
 
 ### pyleSetter Python Module
 
 A fun personal project that I developed as a Neopets player to find painted, limited edition, and other rare Neopets.
 
-[Go to pyleSetter homepage](tileSetter) »
+[Go to pyleSetter homepage](http://veprice.github.io/tileSetter) »
