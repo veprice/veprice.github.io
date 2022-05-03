@@ -14,7 +14,7 @@ I'm currently seeking employment as a data analyst or python developer! Feel fre
 
 Programs I completed and expanded upon as a teaching assistant for an introductory physics course that incorporated Python programming into its curriculum.
 
-[Go to Physics Simulations Homepage](https://veprice.github.io/contemp_physics/) »
+[Go to Physics Simulations Homepage](https://veprice.github.io/contemp_physics/index.html) »
 
 ### pyleSetter Python Module
 
